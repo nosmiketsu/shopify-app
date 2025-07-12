@@ -9,7 +9,7 @@ Welcome to my curated reference repo of **Shopify app integrations** I’ve pers
 ### 🧠 Rebuy — Smart Cart Integration
 > Rebuy is a powerful personalization and upsell tool. This section covers how to integrate its Smart Cart with Shopify storefronts.
 
-📁 [View Integration Guide](./rebuy-smartcart/README.md)
+<!-- 📁 [View Integration Guide](./rebuy-smartcart/README.md) -->
 
 Includes:
 - Smart Cart embed setup
@@ -21,7 +21,7 @@ Includes:
 ### 📧 Klaviyo — Back-in-Stock Flow
 > Klaviyo is a robust email & SMS marketing platform. This integration enables automated "Back in Stock" email flows for out-of-stock products.
 
-📁 [View Integration Guide](./klaviyo-backinstock/README.md)
+<!-- 📁 [View Integration Guide](./klaviyo-backinstock/README.md) -->
 
 Includes:
 - Klaviyo & Shopify setup steps
